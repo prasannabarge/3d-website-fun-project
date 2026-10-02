@@ -89,12 +89,6 @@ You can easily customize default colors by modifying the `:root` variables in th
 
 ---
 
-## 📄 License
-
-Distributed under the **MIT License**. See `LICENSE` for more details.
-
----
-
 <p center align="center">
   Crafted with ❤️ and WebGL precision by <b>Alex Vance</b>
 </p>
